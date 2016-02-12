@@ -1,0 +1,6 @@
+Math 101,Required,Prof. Jones
+English 101,Required,Prof. Smith
+British English,Special Topics,Prof. Ryan
+PHP I,Required,Prof. Anne
+PHP II,Required,Prof. Bob
+Managing Flibertygibbets with PHP,Special Topics,Prof. Smith
